@@ -12,6 +12,7 @@
 
 Para ejecutar el proyecto, debes seguir los siguientes pasos:
 
+- Clonar o descargar el código del repositorio
 - Modificar los ajustes de conexión en `src/database/database.providers.ts` según sea necesario para conectarse a la base de datos de PostgreSQL
 - Abrir la consola de comandos en esta carpeta
 - Ejecutar `npm i` en la consola para instalar todos los paquetes requeridos
