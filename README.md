@@ -3,7 +3,7 @@
 
 ## Prerrequisitos
 
-- Tener Node.js instalado
+- Tener Node.js y Nest.js instalados
 - Tener un servicio de PostgreSQL activo y abierto a conexiones (remoto o local)
 - Tener el puerto `:3000` libre
 
